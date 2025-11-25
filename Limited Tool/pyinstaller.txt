@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --noconsole --icon=Dian-Keto-the-Cure-Master.ico Main.py --add-data "video.mp4;." --add-data "Hen.jpg;."

@@ -1,0 +1,2578 @@
+[
+  {
+    "cardname": "Superheavy Samurai Thief",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast14756848",
+    "cardid": "14756848"
+  },
+  {
+    "cardname": "Brilliant Rose",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast61011438",
+    "cardid": "61011438"
+  },
+  {
+    "cardname": "Stray Purrely Street",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast20212491",
+    "cardid": "20212491"
+  },
+  {
+    "cardname": "Majesty of the White Dragons",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast43219114",
+    "cardid": "43219114"
+  },
+  {
+    "cardname": "Saber Slash",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast11052544",
+    "cardid": "11052544"
+  },
+  {
+    "cardname": "Amazement Precious Park",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast33773528",
+    "cardid": "33773528"
+  },
+  {
+    "cardname": "Magic Drain",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast59344077",
+    "cardid": "59344077"
+  },
+  {
+    "cardname": "Vice Dragon",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast54343893",
+    "cardid": "54343893"
+  },
+  {
+    "cardname": "Satellarknight Procyon",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast99668578",
+    "cardid": "99668578"
+  },
+  {
+    "cardname": "The Agent of Force - Mars",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast91123920",
+    "cardid": "91123920"
+  },
+  {
+    "cardname": "Chaos Scepter Blast",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast15256925",
+    "cardid": "15256925"
+  },
+  {
+    "cardname": "Galaxy Mirror Sage",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast98263709",
+    "cardid": "98263709"
+  },
+  {
+    "cardname": "Lightsworn Judgment",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast66194206",
+    "cardid": "66194206"
+  },
+  {
+    "cardname": "Fiendish Chain",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast50078509",
+    "cardid": "50078509"
+  },
+  {
+    "cardname": "Inzektor Exa-Stag",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast26211048",
+    "cardid": "26211048"
+  },
+  {
+    "cardname": "Hi-Five the Sky",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast91677585",
+    "cardid": "91677585"
+  },
+  {
+    "cardname": "Ambush Fangs",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast77972406",
+    "cardid": "77972406"
+  },
+  {
+    "cardname": "Ojama Red",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast37132349",
+    "cardid": "37132349"
+  },
+  {
+    "cardname": "Crystal Rose",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast79531196",
+    "cardid": "79531196"
+  },
+  {
+    "cardname": "Ryu-Ge End",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast90664684",
+    "cardid": "90664684"
+  },
+  {
+    "cardname": "Igknight Gallant",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast96802306",
+    "cardid": "96802306"
+  },
+  {
+    "cardname": "Wattpheasant",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast81896771",
+    "cardid": "81896771"
+  },
+  {
+    "cardname": "Revival Swarm",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast89226534",
+    "cardid": "89226534"
+  },
+  {
+    "cardname": "Azamina Sol Erysichthon",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast09785661",
+    "cardid": "9785661"
+  },
+  {
+    "cardname": "Red Sparrow Summoner",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast81354330",
+    "cardid": "81354330"
+  },
+  {
+    "cardname": "Genex Ally Chemistrer",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast38049541",
+    "cardid": "38049541"
+  },
+  {
+    "cardname": "Gagagaguard",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast76972801",
+    "cardid": "76972801"
+  },
+  {
+    "cardname": "Scramble Egg",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast75078585",
+    "cardid": "75078585"
+  },
+  {
+    "cardname": "Flamvell Commando",
+    "cardrarity": "Common",
+    "cardset": "Master Pack",
+    "cardcode": "Mast40189917",
+    "cardid": "40189917"
+  },
+  {
+    "cardname": "Eidos the Underworld Squire",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast59463312",
+    "cardid": "59463312"
+  },
+  {
+    "cardname": "Xyz Remora",
+    "cardrarity": "Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast43138260",
+    "cardid": "43138260"
+  },
+  {
+    "cardname": "Fire King Sanctuary",
+    "cardrarity": "Super Rare",
+    "cardset": "Master Pack",
+    "cardcode": "Mast65305978",
+    "cardid": "65305978"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Echelon of the Fire Kings",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38798785",
+    "cardid": "38798785"
+  },
+  {
+    "cardname": "Fire King Avatar Rangbali",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38910263",
+    "cardid": "38910263"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Fire King Avatar Rangbali",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38910263",
+    "cardid": "38910263"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Fire King Avatar Yaksha",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous66413481",
+    "cardid": "66413481"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Circle of the Fire Kings",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59388357",
+    "cardid": "59388357"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Fire King Avatar Rangbali",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38910263",
+    "cardid": "38910263"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Fire King Sky Burn",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous91703676",
+    "cardid": "91703676"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Fire King Avatar Rangbali",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38910263",
+    "cardid": "38910263"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Fire King Avatar Rangbali",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38910263",
+    "cardid": "38910263"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Fire King Avatar Arvata",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous18621798",
+    "cardid": "18621798"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Unchained Soul of Rage",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous67680512",
+    "cardid": "67680512"
+  },
+  {
+    "cardname": "Circle of the Fire Kings",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59388357",
+    "cardid": "59388357"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Fire King Avatar Arvata",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous18621798",
+    "cardid": "18621798"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Unchained Soul of Anguish",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous93084621",
+    "cardid": "93084621"
+  },
+  {
+    "cardname": "Fire King Avatar Yaksha",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous66413481",
+    "cardid": "66413481"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Echelon of the Fire Kings",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38798785",
+    "cardid": "38798785"
+  },
+  {
+    "cardname": "Fire King High Avatar Garunix",
+    "cardrarity": "Ultra Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous23015896",
+    "cardid": "23015896"
+  },
+  {
+    "cardname": "Fire King Avatar Rangbali",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38910263",
+    "cardid": "38910263"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Archfiend's Ghastly Glitch",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous05168381",
+    "cardid": "05168381"
+  },
+  {
+    "cardname": "Unchained Soul of Disaster",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous89019964",
+    "cardid": "89019964"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Fire King Avatar Arvata",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous18621798",
+    "cardid": "18621798"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Unchained Soul of Rage",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous67680512",
+    "cardid": "67680512"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Fire King Avatar Arvata",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous18621798",
+    "cardid": "18621798"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Unchained Soul of Anguish",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous93084621",
+    "cardid": "93084621"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Fire King Avatar Arvata",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous18621798",
+    "cardid": "18621798"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Archfiend's Ghastly Glitch",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous05168381",
+    "cardid": "05168381"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Fire King Avatar Rangbali",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38910263",
+    "cardid": "38910263"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Onslaught of the Fire Kings",
+    "cardrarity": "Ultra Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous22993208",
+    "cardid": "22993208"
+  },
+  {
+    "cardname": "Torrential Tribute",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53582587",
+    "cardid": "53582587"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Unchained Soul of Shyama",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous88554436",
+    "cardid": "88554436"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Onslaught of the Fire Kings",
+    "cardrarity": "Ultra Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous22993208",
+    "cardid": "22993208"
+  },
+  {
+    "cardname": "Abominable Chamber of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous80801743",
+    "cardid": "80801743"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Abomination's Prison",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous27412542",
+    "cardid": "27412542"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Fire King Avatar Arvata",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous18621798",
+    "cardid": "18621798"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Firestorms Over Atlantis",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous17151328",
+    "cardid": "17151328"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Fire King Island",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous57554544",
+    "cardid": "57554544"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Unchained Twins - Aruha",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous26236560",
+    "cardid": "26236560"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Circle of the Fire Kings",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59388357",
+    "cardid": "59388357"
+  },
+  {
+    "cardname": "Echelon of the Fire Kings",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous38798785",
+    "cardid": "38798785"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "High Tide on Fire Island",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous32542011",
+    "cardid": "32542011"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Fire King Avatar Garunix",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54149433",
+    "cardid": "54149433"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Fire King Avatar Barong",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous69000994",
+    "cardid": "69000994"
+  },
+  {
+    "cardname": "Archfiend's Ghastly Glitch",
+    "cardrarity": "Super Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous05168381",
+    "cardid": "05168381"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Bonfire Colossus",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous59834564",
+    "cardid": "59834564"
+  },
+  {
+    "cardname": "Unchained Twins - Sarama",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous31588572",
+    "cardid": "31588572"
+  },
+  {
+    "cardname": "Unchained Twins - Rakea",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53624265",
+    "cardid": "53624265"
+  },
+  {
+    "cardname": "Wailing of the Unchained Souls",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous54807656",
+    "cardid": "54807656"
+  },
+  {
+    "cardname": "Escape of the Unchained",
+    "cardrarity": "Common",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous53417695",
+    "cardid": "53417695"
+  },
+  {
+    "cardname": "Zalamander Catalyzer",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous40460013",
+    "cardid": "40460013"
+  },
+  {
+    "cardname": "Fire Fighting Daruma Doll",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous64514892",
+    "cardid": "64514892"
+  },
+  {
+    "cardname": "Fire King Avatar Kirin",
+    "cardrarity": "Rare",
+    "cardset": "Roused From Destruction",
+    "cardcode": "Rous96594609",
+    "cardid": "96594609"
+  },
+  {
+    "cardname": "Berserk Gorilla",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega39168895",
+    "cardid": "39168895"
+  },
+  {
+    "cardname": "Xing Zhen Hu",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega76515293",
+    "cardid": "76515293"
+  },
+  {
+    "cardname": "Man-Eating Treasure Chest",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega13723605",
+    "cardid": "13723605"
+  },
+  {
+    "cardname": "Elemental HERO Lady Heat",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega95362816",
+    "cardid": "95362816"
+  },
+  {
+    "cardname": "Bazoo the Soul-Eater",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega40133511",
+    "cardid": "40133511"
+  },
+  {
+    "cardname": "Spell Striker",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega93187568",
+    "cardid": "93187568"
+  },
+  {
+    "cardname": "Fusion Substitute",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega74335036",
+    "cardid": "74335036"
+  },
+  {
+    "cardname": "Royal Penguins Garden",
+    "cardrarity": "Super Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega80893872",
+    "cardid": "80893872"
+  },
+  {
+    "cardname": "Space Mambo",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega36119641",
+    "cardid": "36119641"
+  },
+  {
+    "cardname": "Cloudian - Poison Cloud",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega83982270",
+    "cardid": "83982270"
+  },
+  {
+    "cardname": "Soundproofed",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega42314669",
+    "cardid": "42314669"
+  },
+  {
+    "cardname": "Prepare to Strike Back",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega04483989",
+    "cardid": "04483989"
+  },
+  {
+    "cardname": "The Emperor's Holiday",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega68400115",
+    "cardid": "68400115"
+  },
+  {
+    "cardname": "Darklight",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega29876529",
+    "cardid": "29876529"
+  },
+  {
+    "cardname": "Go! - D/D/D Divine Zero King Rage",
+    "cardrarity": "Super Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega40227329",
+    "cardid": "40227329"
+  },
+  {
+    "cardname": "Ma'at",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega18631392",
+    "cardid": "18631392"
+  },
+  {
+    "cardname": "Natural Disaster",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega18158397",
+    "cardid": "18158397"
+  },
+  {
+    "cardname": "Wall Shadow",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega63162310",
+    "cardid": "63162310"
+  },
+  {
+    "cardname": "Level Limit - Area A",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega54976796",
+    "cardid": "54976796"
+  },
+  {
+    "cardname": "Past Image",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega50292967",
+    "cardid": "50292967"
+  },
+  {
+    "cardname": "Command Performance",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega78184733",
+    "cardid": "78184733"
+  },
+  {
+    "cardname": "Spell of Pain",
+    "cardrarity": "Super Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega76714458",
+    "cardid": "76714458"
+  },
+  {
+    "cardname": "Depth Amulet",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega08279188",
+    "cardid": "08279188"
+  },
+  {
+    "cardname": "Sword Breaker",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega64689404",
+    "cardid": "64689404"
+  },
+  {
+    "cardname": "Clown Zombie",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega92667214",
+    "cardid": "92667214"
+  },
+  {
+    "cardname": "Star Light, Star Bright",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega43661068",
+    "cardid": "43661068"
+  },
+  {
+    "cardname": "Performapal Flip Hippo",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega91449532",
+    "cardid": "91449532"
+  },
+  {
+    "cardname": "Sky Dragon",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega95288024",
+    "cardid": "95288024"
+  },
+  {
+    "cardname": "Machina Sniper",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega23782705",
+    "cardid": "23782705"
+  },
+  {
+    "cardname": "Maji-Gire Panda",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega60102563",
+    "cardid": "60102563"
+  },
+  {
+    "cardname": "Barrier Statue of the Inferno",
+    "cardrarity": "Super Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega47961808",
+    "cardid": "47961808"
+  },
+  {
+    "cardname": "Gilford the Legend",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega69933858",
+    "cardid": "69933858"
+  },
+  {
+    "cardname": "Elementsaber Molehu",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega45702014",
+    "cardid": "45702014"
+  },
+  {
+    "cardname": "Mermaid Archer",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega04252828",
+    "cardid": "04252828"
+  },
+  {
+    "cardname": "Gagagigo",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega49003308",
+    "cardid": "49003308"
+  },
+  {
+    "cardname": "Aqua Chorus",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega95132338",
+    "cardid": "95132338"
+  },
+  {
+    "cardname": "Sectarian of Secrets",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega15507080",
+    "cardid": "15507080"
+  },
+  {
+    "cardname": "Tualatin",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega27769400",
+    "cardid": "27769400"
+  },
+  {
+    "cardname": "Crevice Into the Different Dimension",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega49600724",
+    "cardid": "49600724"
+  },
+  {
+    "cardname": "Rafflesia Seduction",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega31440542",
+    "cardid": "31440542"
+  },
+  {
+    "cardname": "Rodenut",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega13478040",
+    "cardid": "13478040"
+  },
+  {
+    "cardname": "Brain Jacker",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega40267580",
+    "cardid": "40267580"
+  },
+  {
+    "cardname": "Nemuriko",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega90963488",
+    "cardid": "90963488"
+  },
+  {
+    "cardname": "Gladiator's Return",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega24285858",
+    "cardid": "24285858"
+  },
+  {
+    "cardname": "Knight's Title",
+    "cardrarity": "Common",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega87210505",
+    "cardid": "87210505"
+  },
+  {
+    "cardname": "Transforming Sphere",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega66094973",
+    "cardid": "66094973"
+  },
+  {
+    "cardname": "Tokkosho of Ghost Destroying",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega82361206",
+    "cardid": "82361206"
+  },
+  {
+    "cardname": "Eternal Drought",
+    "cardrarity": "Rare",
+    "cardset": "Legacy Pack",
+    "cardcode": "Lega56606928",
+    "cardid": "56606928"
+  }
+]
